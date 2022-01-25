@@ -1,3 +1,3 @@
 # 1st_librarySystem
 
-java console project(개인 콘솔 프로젝트)
+java console project(도서관리 프로그램)
